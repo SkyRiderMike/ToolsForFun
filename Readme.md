@@ -1,0 +1,1 @@
+All written in C++11 style
